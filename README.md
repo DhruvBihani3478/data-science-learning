@@ -1,0 +1,2 @@
+# data-science-learning
+A structured collection of my daily assignments, notes, and hands-on exercises completed while learning Data Science and Machine Learning. This repository documents my journey through Python, NumPy, Pandas, data visualization, statistics, feature engineering, machine learning, and real-world projects, with consistent Git commits to track my progress and continuous learning.
