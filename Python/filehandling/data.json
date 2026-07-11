@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "name": "Dhruv",
+        "age": 20,
+        "course": "CSE",
+        "marks": 89
+    },
+    {
+        "id": 102,
+        "name": "Riya",
+        "age": 19,
+        "course": "IT",
+        "marks": 92
+    },
+    {
+        "id": 103,
+        "name": "Aman",
+        "age": 21,
+        "course": "ECE",
+        "marks": 78
+    },
+    {
+        "id": 104,
+        "name": "Neha",
+        "age": 20,
+        "course": "CSE",
+        "marks": 95
+    },
+    {
+        "id": 105,
+        "name": "Karan",
+        "age": 22,
+        "course": "ME",
+        "marks": 81
+    }
+]
